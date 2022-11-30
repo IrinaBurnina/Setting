@@ -20,20 +20,20 @@ public class Main {
                     Education.values()[new Random().nextInt(Education.values().length)])
             );
         }
-        long children=persons.stream()
-                .filter(x ->x.getAge()<18)
+        long children = persons.stream()
+                .filter(x -> x.getAge() < 18)
                 .count();
         System.out.println(children);
-        List<String> conscripts=persons.stream()
-                .filter(x ->x.getAge()>18&&x.getAge()<27)
-                .map(x ->x.getFamily())
+        List<String> conscripts = persons.stream()
+                .filter(x -> x.getAge() > 18 && x.getAge() < 27)
+                .map(x -> x.getFamily())
                 .collect(Collectors.toList());
         System.out.println(conscripts);
-        List<Person> workers =persons.stream()
-                .filter(x ->x.getSex()==Sex.MAN&&x.getAge()>18&&x.getAge()<65||
-                        x.getSex()==Sex.WOMAN&&x.getAge()>18&&x.getAge()<60)
-                .filter(x ->x.getEducation()==Education.HIGHER)
-                .sorted(Comparator.comparing(x->x.getFamily()))
+        List<Person> workers = persons.stream()
+                .filter(x -> x.getSex() == Sex.MAN && x.getAge() > 18 && x.getAge() < 65 ||
+                        x.getSex() == Sex.WOMAN && x.getAge() > 18 && x.getAge() < 60)
+                .filter(x -> x.getEducation() == Education.HIGHER)
+                .sorted(Comparator.comparing(x -> x.getFamily()))
                 .collect(Collectors.toList());
         System.out.println(workers);
 
