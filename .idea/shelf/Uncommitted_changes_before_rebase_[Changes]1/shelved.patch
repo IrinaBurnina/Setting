@@ -1,0 +1,237 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f3d4c2fc-9dc5-4074-8248-b440b8606b12\" name=\"Changes\" comment=\"add StreamMain\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n        <option value=\"Interface\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2I5vzEzbTGsib5VE99ndEV2Slrk\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.0\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CreateClassDialog.RecentsKey\">\r\n      <recent name=\"lyambda\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Main\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"lyambda.Main\" />\r\n      <module name=\"core-java-core\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"lyambda.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"worker.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"worker.Main\" />\r\n      <module name=\"core-java-core\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"worker.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.worker.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f3d4c2fc-9dc5-4074-8248-b440b8606b12\" name=\"Changes\" comment=\"\" />\r\n      <created>1669484522782</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1669484522782</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"add StreamMain\">\r\n      <created>1669734791969</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669734791969</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"add StreamMain\">\r\n      <created>1669734882421</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669734882421</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n        <entry key=\"e02ae60a-b8c9-4d80-a88b-0be0e2230306\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"add StreamMain\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add StreamMain\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/lyambda/Main.java</url>\r\n          <line>8</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a13d02e8f0be8f8d29a148195eacfde32d19baeb)
++++ b/.idea/workspace.xml	(date 1670184305946)
+@@ -4,8 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f3d4c2fc-9dc5-4074-8248-b440b8606b12" name="Changes" comment="add StreamMain">
++    <list default="true" id="f3d4c2fc-9dc5-4074-8248-b440b8606b12" name="Changes" comment="reformat code PopulationCensus">
++      <change afterPath="$PROJECT_DIR$/src/setting/Main.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/workWithCounts/StreamMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/workWithCounts/StreamMain.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -15,12 +17,19 @@
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
+-        <option value="Class" />
+         <option value="Interface" />
++        <option value="Enum" />
++        <option value="Class" />
+       </list>
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+@@ -33,21 +42,22 @@
+     <option name="showLibraryContents" value="true" />
+     <option name="showMembers" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "project.structure.last.edited": "Modules",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;E:/java-project-idea/Binary&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CreateClassDialog.RecentsKey">
+       <recent name="lyambda" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.Main">
++  <component name="RunManager" selected="Application.setting.Main">
+     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="lyambda.Main" />
+       <module name="core-java-core" />
+@@ -61,12 +71,51 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="worker.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="worker.Main" />
++    <configuration name="StreamMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="workWithCounts.StreamMain" />
++      <module name="core-java-core" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="workWithCounts.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="populationCensus.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="populationCensus.Main" />
+       <module name="core-java-core" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="worker.*" />
++          <option name="PATTERN" value="populationCensus.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="setting.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="setting.Main" />
++      <module name="core-java-core" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="setting.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="workWithCounts.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="workWithCounts.Main" />
++      <module name="core-java-core" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="workWithCounts.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -76,8 +125,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.setting.Main" />
++        <item itemvalue="Application.populationCensus.Main" />
++        <item itemvalue="Application.StreamMain" />
++        <item itemvalue="Application.workWithCounts.Main" />
+         <item itemvalue="Application.Main" />
+-        <item itemvalue="Application.worker.Main" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -104,7 +156,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1669734882421</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="change scr StreamMain">
++      <created>1669736865137</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1669736865137</updated>
++    </task>
++    <task id="LOCAL-00004" summary="add PopulationCensus">
++      <created>1669791570846</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1669791570846</updated>
++    </task>
++    <task id="LOCAL-00005" summary="reformat code PopulationCensus">
++      <created>1669792064014</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1669792064014</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -125,7 +198,11 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="add StreamMain" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add StreamMain" />
++    <MESSAGE value="change scr StreamMain" />
++    <MESSAGE value="add PopulationCensus" />
++    <MESSAGE value="reformat cde PopulationCensus" />
++    <MESSAGE value="reformat code PopulationCensus" />
++    <option name="LAST_COMMIT_MESSAGE" value="reformat code PopulationCensus" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+@@ -134,6 +211,25 @@
+           <url>file://$PROJECT_DIR$/src/lyambda/Main.java</url>
+           <line>8</line>
+           <option name="timeStamp" value="1" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/populationCensus/Person.java</url>
++          <line>22</line>
++          <option name="timeStamp" value="12" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/setting/Main.java</url>
++          <line>11</line>
++          <option name="timeStamp" value="26" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-method">
++          <url>file://$PROJECT_DIR$/src/populationCensus/Person.java</url>
++          <line>9</line>
++          <properties class="populationCensus.Person" method="&lt;init&gt;">
++            <option name="EMULATED" value="true" />
++            <option name="WATCH_EXIT" value="false" />
++          </properties>
++          <option name="timeStamp" value="13" />
+         </line-breakpoint>
+       </breakpoints>
+     </breakpoint-manager>
+Index: src/workWithCounts/StreamMain.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package workWithCounts;\r\n\r\nimport java.util.Arrays;\r\nimport java.util.Comparator;\r\nimport java.util.List;\r\nimport java.util.stream.Stream;\r\n\r\npublic class StreamMain {\r\n    public static void main(String[] args) {\r\n        List<Integer> intList = Arrays.asList(1, 2, 5, 16, -1, -2, 0, 32, 3, 5, 8, 23, 4);\r\n        //int[] list=new int[intList.size()];\r\n        Stream<Integer> stream = intList.stream()\r\n        .filter(x ->x>0)\r\n        .filter(x ->x%2==0)\r\n        .sorted(Comparator.naturalOrder());\r\n        stream.forEach(System.out::println);\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/workWithCounts/StreamMain.java b/src/workWithCounts/StreamMain.java
+--- a/src/workWithCounts/StreamMain.java	(revision a13d02e8f0be8f8d29a148195eacfde32d19baeb)
++++ b/src/workWithCounts/StreamMain.java	(date 1669737126023)
+@@ -8,11 +8,10 @@
+ public class StreamMain {
+     public static void main(String[] args) {
+         List<Integer> intList = Arrays.asList(1, 2, 5, 16, -1, -2, 0, 32, 3, 5, 8, 23, 4);
+-        //int[] list=new int[intList.size()];
+         Stream<Integer> stream = intList.stream()
+-        .filter(x ->x>0)
+-        .filter(x ->x%2==0)
+-        .sorted(Comparator.naturalOrder());
++                .filter(x -> x > 0)
++                .filter(x -> x % 2 == 0)
++                .sorted(Comparator.naturalOrder());
+         stream.forEach(System.out::println);
+     }
+ }
