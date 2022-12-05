@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/core-java-core.iml" filepath="$PROJECT_DIR$/core-java-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core-java-core.iml" filepath="$PROJECT_DIR$/Core-java-core.iml" />
     </modules>
   </component>
 </project>
